@@ -2,8 +2,13 @@ h1{
     color: black;
 	text-align: center-left;
 	background: red;
+	font-size: 5vw;
 }
 p{
 	color: black;
 	background: lightgray;
+	font-size: 2vw;
+}
+img{
+	max-width: 100%;
 }
